@@ -144,12 +144,21 @@ footer {
   color: black; height: 275px;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 77095ed62d33e079cd59d4d10af7c12b22faf9b4
 .ta{
   background-color: white; border-radius: 15px;
   margin-top: 20px; width: auto; opacity: 0.7;
   color: black; height: 225px; padding: 10px;
 }
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 4f858a0ad649f266a1a951143871004e2a4b8285
+>>>>>>> 77095ed62d33e079cd59d4d10af7c12b22faf9b4
 .bg {
     position: relative;
     width: 100%;
@@ -206,7 +215,15 @@ footer {
   margin-top: 80px;height: 400px;
 }
 
+<<<<<<< HEAD
 /*.div-custom {
+=======
+<<<<<<< HEAD
+/*.div-custom {
+=======
+.div-custom {
+>>>>>>> 4f858a0ad649f266a1a951143871004e2a4b8285
+>>>>>>> 77095ed62d33e079cd59d4d10af7c12b22faf9b4
   transition: all linear 0.15s;
   background-color: lightblue;
   height: 100px;
@@ -214,7 +231,15 @@ footer {
   position: relative;
   top: 0;
   left: 0;
+<<<<<<< HEAD
 }*/
+=======
+<<<<<<< HEAD
+}*/
+=======
+}
+>>>>>>> 4f858a0ad649f266a1a951143871004e2a4b8285
+>>>>>>> 77095ed62d33e079cd59d4d10af7c12b22faf9b4
 
 .ng-show {
   height: 0;
@@ -226,6 +251,10 @@ footer {
 
 .ds{
       text-align: center; color: #ffffff; 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 77095ed62d33e079cd59d4d10af7c12b22faf9b4
       text-decoration-color: white; font-size: 24px !important;  
       font-family: "neuton";margin-right: 10px;margin-left: 10px;padding-top: 5px;
       width: 100px; height: 35px; padding: 5px;
@@ -240,6 +269,15 @@ footer {
   height: 50px; width: 100px; font-size: 24px;
 }  
 
+<<<<<<< HEAD
+=======
+=======
+      text-decoration-color: white; font-size: 24px!important;  
+      font-family: "neuton";margin-right: 10px;margin-left: 10px;padding-top: 5px;
+}
+
+>>>>>>> 4f858a0ad649f266a1a951143871004e2a4b8285
+>>>>>>> 77095ed62d33e079cd59d4d10af7c12b22faf9b4
 .jarakshare{
   margin-bottom: 30px;justify-content: center;
 }
@@ -295,6 +333,10 @@ button:hover, a:hover {
   opacity: 0.7;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 77095ed62d33e079cd59d4d10af7c12b22faf9b4
 .wkwk {
   position: relative;
   width: 100%;
@@ -358,9 +400,37 @@ button:hover, a:hover {
   margin-left: 105px;padding-left: 5px;
   padding-top: 5px;padding-right: 5px;
 }
+<<<<<<< HEAD
 
 .bundar{
   width: 100px;height: 100px;border-radius: 50%;
   background-color: white; margin: 15px; justify-content: center;
 }
 
+=======
+=======
+
+.kotak
+      {
+        width: 400px;
+        height: 500px;
+        border-radius: 10px;
+        background-color: orange;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 90px; 
+        filter: alpha(opacity=40);
+        float: right;
+        opacity: 0.9;
+      }
+      .username
+      {
+        width: 300px;
+        height: 43px;
+        border-radius: 5px;
+        margin: 10px;
+      }
+>>>>>>> 4f858a0ad649f266a1a951143871004e2a4b8285
+>>>>>>> 77095ed62d33e079cd59d4d10af7c12b22faf9b4
